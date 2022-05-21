@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  background-image: url("img/about3\(2\).jpg");
+  font-family: Poppins;
+  padding-top: 10px;
+  background-size: 100%;
+  background-color: brown;
+  color: #d06f6f;
+}
+
+.judul {
+  text-align: center;
+  color: white;
+  transform: translate(0%, -35%);
+}
+
+.judul2 {
+  text-align: center;
+  color: white;
+  transform: translate(0%, -130%);
+  font-size: 18px;
+}
+
+form {
+  color: white;
+  padding-left: 20%;
+}
+
+#nama,
+#email {
+  width: 70%;
+}
+
+h2 {
+  transform: translate(0%, -35%);
+  text-align: center;
+}
+
+label {
+  display: block;
+}
+
+button {
+  background-color: gray;
+  font-size: 15px;
+  font-weight: bold;
+  border-color: white;
+  border-style: dotted;
+}
